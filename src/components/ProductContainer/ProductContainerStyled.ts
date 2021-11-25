@@ -2,6 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   width: 100%;
+  background: #ededed;
 ` 
 export const Wrapper = styled.div`
   background: transparent;
